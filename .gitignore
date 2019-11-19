@@ -35,4 +35,4 @@
 .vscode/
 
 # Build outputs
-_build/
+_out/
